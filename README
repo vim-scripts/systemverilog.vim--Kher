@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1952
+
+IEEE 1800 SystemVerilog is the industry's first unified hardware description and verification language (HDVL) standard. SystemVerilog is a major extension of the established IEEE 1364 Verilog language.
+The latest version of this package can always be found at http://kher.org/blog/technical_stuff/vim_syntax_for_systemverilog.html
+cheers!
